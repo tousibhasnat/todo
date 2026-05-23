@@ -1,15 +1,4 @@
-// ─────────────────────────────────────────────────────────
-//  widgets/task_card.dart
-//  A reusable widget that displays one task as a white Card.
-//  Used by ListView.builder in TaskListScreen.
-//
-//  Layout of one card:
-//  ┌────────────────────────────────────────┐
-//  │  ID: 01                    [icon badge]│
-//  │  Market Research                       │
-//  │  🕐 10:00 AM (10 minutes ago)   [Done] │
-//  └────────────────────────────────────────┘
-// ─────────────────────────────────────────────────────────
+
 
 import 'package:flutter/material.dart';
 import '../models/task.dart';
