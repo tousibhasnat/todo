@@ -1,10 +1,4 @@
-// ─────────────────────────────────────────────────────────
-//  screens/add_task_screen.dart
-//  Screen 2 — The Add Task screen.
-//  Shows a form with a Task Group field and Description field.
-//  Has a back arrow (navigation) and an Add button at the bottom.
-//  No save logic needed — only UI and navigation.
-// ─────────────────────────────────────────────────────────
+
 
 import 'package:flutter/material.dart';
 

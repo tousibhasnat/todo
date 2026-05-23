@@ -1,9 +1,4 @@
-// ─────────────────────────────────────────────────────────
-//  screens/task_list_screen.dart
-//  Screen 1 — The To-Do List screen.
-//  Shows a list of tasks inside Card widgets using ListView.
-//  Tapping the "+" button navigates to the Add Task screen.
-// ─────────────────────────────────────────────────────────
+
 
 import 'package:flutter/material.dart';
 import '../models/task.dart';

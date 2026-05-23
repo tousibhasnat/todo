@@ -1,9 +1,4 @@
-// ─────────────────────────────────────────────────────────
-//  models/task.dart
-//  A simple data class (model) that represents one task.
-//  Every task has an id, title, time, status, and a colour
-//  for the icon badge shown on the right side.
-// ─────────────────────────────────────────────────────────
+
 
 import 'package:flutter/material.dart';
 
